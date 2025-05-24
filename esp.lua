@@ -360,7 +360,7 @@ UserTagButton.MouseButton1Click:Connect(function()
 end)
 
 -- Replace with your own raw script URL!
-local scriptURL = "https://pastebin.com/raw/xxxxxxxx"
+local scriptURL = "https://raw.githubusercontent.com/potato1559/esp/refs/heads/main/esp.lua"
 
 RejoinButton.MouseButton1Click:Connect(function()
     if queue_on_teleport then
